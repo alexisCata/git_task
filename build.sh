@@ -1,5 +1,4 @@
 #!/bin/sh
 
-echo pwd
-/usr/bin/javac HelloWorld.java
-/usr/bin/javac ByeWorld.java
+/usr/bin/javac ./repo/git_task/HelloWorld.java
+/usr/bin/javac ./repo/git_task/ByeWorld.java
